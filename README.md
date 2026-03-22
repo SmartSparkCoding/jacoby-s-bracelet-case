@@ -5,6 +5,6 @@ My BOM is attached in the CSV format and in this Repo.
 
 Here is my final mockup.
 
-<img href="https://github.com/SmartSparkCoding/jacoby-s-bracelet-case/blob/main/Screenshot%202026-03-22%20130214.png" alt="my full box + lid"> 
+<img src="https://github.com/SmartSparkCoding/jacoby-s-bracelet-case/blob/main/Screenshot%202026-03-22%20130214.png" alt="my full box + lid"> 
 
 Find other images in my repo. 
